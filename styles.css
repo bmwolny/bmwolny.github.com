@@ -1,0 +1,42 @@
+html{
+
+	background-color: #780000;
+	
+	}
+
+body {
+font-family: 'Miss Fajardose', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Quantico', sans-serif;
+margin-bottom: 120px;
+}
+
+p {
+	line-height: 1.5em;
+	}
+	
+	.container {
+  position: relative;
+}
+nav {
+  position: absolute;
+  left: 0px;
+  width: 200px;
+}
+section {
+  /* position is static by default */
+  margin-left: 200px;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: white;
+  width: 100%;
+}
+
+img {
+  float: right;
+  margin: 0 0 1em 1em;
+}
