@@ -1,7 +1,12 @@
 html{
 
 	background-color: #780000;
-	
+	width: 80%;
+	margin: 40px auto;
+	text-align: justify;
+	background-color: #780000;
+	padding: 40px;
+	border: solid 2px #500652;
 	}
 
 body {
