@@ -4,9 +4,9 @@ html{
 	width: 80%;
 	margin: 40px auto;
 	text-align: justify;
-	background-color: #780000;
+	color: #cccccc;
 	padding: 40px;
-	border: solid 2px #500652;
+	border: solid 2px #000099;
 	}
 
 body {
@@ -16,6 +16,17 @@ font-family: 'Quantico', sans-serif;
 margin-bottom: 120px;
 }
 
+a {
+	font-family: Verdana; sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	}
+a:link {
+	color: 000033;
+	}
+a:visited {
+	color: 996666;
+	}
 p {
 	line-height: 1.5em;
 	}
@@ -23,10 +34,11 @@ p {
 	.container {
   position: relative;
 }
-nav {
+#nav {
   display: block;
   font-weight: bold;
   padding: 3px 0px 3px 3px;
+  border: solid 2px #000000;
   background-color: #000066;
   color: #000000;
   float:left;
