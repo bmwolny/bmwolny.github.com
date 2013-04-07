@@ -15,7 +15,7 @@
 		<AudioCompileSettings ObjectRef="150"/>
 		<Node Version="1">
 			<Properties Version="1">
-				<MZ.BuildVersion.Modified>20120831.B232.425268 - Sun Mar 31 14:49:12 2013</MZ.BuildVersion.Modified>
+				<MZ.BuildVersion.Modified>20120831.B232.425268 - Sun Apr  7 05:01:53 2013</MZ.BuildVersion.Modified>
 				<MZ.BuildVersion.Created>20120831.B232.425268 - Sun Mar 31 14:44:17 2013</MZ.BuildVersion.Created>
 				<MZ.Current.Project.Version>11.0</MZ.Current.Project.Version>
 				<MZ.Project.ApplicationID>Elements</MZ.Project.ApplicationID>
@@ -24,8 +24,8 @@
 				<Project.IconView.Thumbnail.Size>1</Project.IconView.Thumbnail.Size>
 				<Project.IconView.Thumbnail.State>true</Project.IconView.Thumbnail.State>
 				<Project.ContentView.LastViewed>0</Project.ContentView.LastViewed>
-				<Columns.List Version="3">
-					<Columns Version="1">
+				<Columns.List ObjectID="4294967295" ClassID="00000000-0000-0000-0000-000000000000" Version="3">
+					<Columns ObjectID="4294967295" ClassID="00000000-0000-0000-0000-000000000000" Version="1">
 						<Column Index="0" ObjectRef="1"/>
 						<Column Index="1" ObjectRef="2"/>
 						<Column Index="2" ObjectRef="3"/>
@@ -406,10 +406,10 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>3</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>12</MZ.ComponentChain.ActiveComponentID>
 				</Properties>
 			</Node>
-			<NextComponentID>12</NextComponentID>
+			<NextComponentID>13</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="21"/>
 				<Component Index="1" ObjectRef="36"/>
@@ -666,7 +666,7 @@
 		<Name>Frame Rate Adjuster</Name>
 	</VideoComponentParam>
 	<VideoFilterComponent ObjectID="36" ClassID="d10da199-beea-4dd1-b941-ed3a78766d50" Version="7">
-		<PremiereFilterPrivateData Encoding="base64" Checksum="4294908813">AQA=</PremiereFilterPrivateData>
+		<PremiereFilterPrivateData Encoding="base64" Checksum="4294908699">AQE=</PremiereFilterPrivateData>
 		<SequenceID>1</SequenceID>
 		<VideoFilterType>2</VideoFilterType>
 		<MatchName>AE.ADBE Motion</MatchName>
@@ -694,7 +694,7 @@
 		<ParameterID>1</ParameterID>
 		<CurrentValue>0,0</CurrentValue>
 		<UnitsString></UnitsString>
-		<StartKeyframe>-91445760000000000,0.500000000000000000000000:0.500000000000000000000000,0,0,0.000000000000000000000000,0.000000000000000000000000,0.000000000000000000000000,0.000000000000000000000000,5,4,0.000000000000000000000000,0.000000000000000000000000,0.000000000000000000000000,0.000000000000000000000000</StartKeyframe>
+		<StartKeyframe>-91445760000000000,0.515151515151515138057903:0.500000000000000222044605,0,0,0.000000000000000000000000,0.000000000000000000000000,0.000000000000000000000000,0.000000000000000000000000,5,4,0.000000000000000000000000,0.000000000000000000000000,0.000000000000000000000000,0.000000000000000000000000</StartKeyframe>
 		<ParameterControlType>6</ParameterControlType>
 		<DiscontinuousInterpolate>false</DiscontinuousInterpolate>
 		<IsLocked>false</IsLocked>

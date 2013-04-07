@@ -152,7 +152,7 @@
 		<IsViewContainerUndocked>false</IsViewContainerUndocked>
 		<View ObjectRef="22"/>
 		<HasSplitter>false</HasSplitter>
-		<ViewContainerRect>0,0,842,296</ViewContainerRect>
+		<ViewContainerRect>0,0,1212,296</ViewContainerRect>
 	</ViewContainerInfo>
 	<ViewInfo ObjectID="22" ClassID="a9abfca9-f629-4406-826c-f0f47d493d39" Version="1">
 		<ViewType>Monitor</ViewType>
@@ -163,7 +163,7 @@
 		<IsViewContainerUndocked>false</IsViewContainerUndocked>
 		<View ObjectRef="24"/>
 		<HasSplitter>false</HasSplitter>
-		<ViewContainerRect>848,0,1280,296</ViewContainerRect>
+		<ViewContainerRect>1218,0,1280,296</ViewContainerRect>
 	</ViewContainerInfo>
 	<ViewInfo ObjectID="24" ClassID="a9abfca9-f629-4406-826c-f0f47d493d39" Version="1">
 		<ViewType>ClipOptions</ViewType>
